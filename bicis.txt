@@ -1,0 +1,282 @@
+[
+    {
+        "item": {
+            "nombre": "ROAD Rocky",
+            "tipoItem": "bicicleta",
+            "precio": "500$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-ruta-5423.png",
+            "id": "22",
+            "categoria":"ruta"
+        }
+    },
+    {
+        "item": {
+            "nombre": "ROAD Formula",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-ruta12.png",
+            "id": "23",
+            "categoria":"ruta"
+        }
+    },
+    {
+        "item": {
+            "nombre": "ROAD goon",
+            "tipoItem": "bicicleta",
+            "precio": "900$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici%20ruta.png",
+            "id": "24",
+            "categoria":"ruta"
+        }
+    },
+    {
+        "item": {
+            "nombre": "ROAD moto",
+            "tipoItem": "bicicleta",
+            "precio": "830$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/ruta039.png",
+            "id": "25",
+            "categoria":"ruta"
+        }
+    },
+    {
+        "item": {
+            "nombre": "ROAD Trin",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici%20ruta43.png",
+            "id": "28",
+            "categoria":"ruta"
+        }
+    },
+    {
+        "item": {
+            "nombre": "ROAD Duet",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bicicleta%20ruta643.png",
+            "id": "27",
+            "categoria":"ruta"
+        }
+    },
+    {
+        "item": {
+            "nombre": "ROAD Recreo",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/ruta5467.png",
+            "id": "26",
+            "categoria":"ruta"
+        }
+    },
+    {
+        "item": {
+            "nombre": "MTB Rocky",
+            "tipoItem": "bicicleta",
+            "precio": "500$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-mtb-sada4.png",
+            "id": "1",
+            "categoria":"mtb"
+        }
+    },
+    {
+        "item": {
+            "nombre": "MTB Formula",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-mtb-432.png",
+            "id": "2",
+            "categoria":"mtb"
+        }
+    },
+    {
+        "item": {
+            "nombre": "MTB goon",
+            "tipoItem": "bicicleta",
+            "precio": "900$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-mtbh54.png",
+            "id": "3",
+            "categoria":"mtb"
+        }
+    },
+    {
+        "item": {
+            "nombre": "MTB moto",
+            "tipoItem": "bicicleta",
+            "precio": "830$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bicicleta%20mtb.png",
+            "id": "4",
+            "categoria":"mtb"
+        }
+    },
+    {
+        "item": {
+            "nombre": "MTB Trin",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-mendiz-x10.png",
+            "id": "7",
+            "categoria":"mtb"
+        }
+    },
+    {
+        "item": {
+            "nombre": "MTB Rapid",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici%20mtb23.png",
+            "id": "6",
+            "categoria":"mtb"
+        }
+    },
+    {
+        "item": {
+            "nombre": "MTB Recreo",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/mtb-1.jpeg",
+            "id": "5",
+            "categoria":"mtb"
+        }
+    },
+    {
+        "item": {
+            "nombre": "KIDS Rocky",
+            "tipoItem": "bicicleta",
+            "precio": "500$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici%20ninio.png",
+            "id": "15",
+            "categoria":"kid"
+        }
+    },
+    {
+        "item": {
+            "nombre": "KIDS Formula",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bicicleta-infantil-aro-16-monark-bmx-r-masculina-preta-azul-1.webp",
+            "id": "16",
+            "categoria":"kid"
+        }
+    },
+    {
+        "item": {
+            "nombre": "KIDS goon",
+            "tipoItem": "bicicleta",
+            "precio": "900$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-ktm-12edrive.jpg",
+            "id": "17",
+            "categoria":"kid"
+        }
+    },
+    {
+        "item": {
+            "nombre": "KIDS moto",
+            "tipoItem": "bicicleta",
+            "precio": "830$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/3pw200025500-bicicleta-ktm-radical-kids-training-bike-2020-1.jpg",
+            "id": "18",
+            "categoria":"kid"
+        }
+    },
+    {
+        "item": {
+            "nombre": "KIDS Trin",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/Bicicleta-Nino-Aluminio-Rodado-12-Trek-Precaliber-12-Boys.jpg",
+            "id": "21",
+            "categoria":"kid"
+        }
+    },
+    {
+        "item": {
+            "nombre": "KIDS Duet",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/714Rsn3yDnL._SL1500_.jpg",
+            "id": "20",
+            "categoria":"kid"
+        }
+    },
+    {
+        "item": {
+            "nombre": "KIDS Recreo",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/01-bicicleta-infantil-arco-iris-aro-12-preto-com-verde-ciclismo-jmahfuz.jpg",
+            "id": "19",
+            "categoria":"kid"
+        }
+    },
+    {
+        "item": {
+            "nombre": "City 1.0",
+            "tipoItem": "bicicleta",
+            "precio": "500$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-ciudad%205435.png",
+            "id": "8",
+            "categoria":"city"
+        }
+    },
+    {
+        "item": {
+            "nombre": "City race",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-ciudad-9430237.png",
+            "id": "9",
+            "categoria":"city"
+        }
+    },
+    {
+        "item": {
+            "nombre": "City columbus",
+            "tipoItem": "bicicleta",
+            "precio": "900$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/bici-fixie-552.png",
+            "id": "10",
+            "categoria":"city"
+        }
+    },
+    {
+        "item": {
+            "nombre": "City archer",
+            "tipoItem": "bicicleta",
+            "precio": "830$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/BiciCiudad.png",
+            "id": "11",
+            "categoria":"city"
+        }
+    },
+    {
+        "item": {
+            "nombre": "City Trin2.0",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/fixie4353.png",
+            "id": "14",
+            "categoria":"city"
+        }
+    },
+    {
+        "item": {
+            "nombre": "City Trin",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/electrica_TOWN-E.png",
+            "id": "13",
+            "categoria":"city"
+        }
+    },
+    {
+        "item": {
+            "nombre": "City Recreo",
+            "tipoItem": "bicicleta",
+            "precio": "700$",
+            "img": "https://juanch013.github.io/proyecto-integrador/images/Bird-Cruiser.png",
+            "id": "12",
+            "categoria":"city"
+        }
+    }
+]
