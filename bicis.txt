@@ -346,7 +346,7 @@
         "nombre": "Control",
         "tipoItem": "punio",
         "precio": "32$",
-        "img": "../../images/punio1.jpg",
+        "img": "../../images/punios1.jpg",
         "id": "40",
         "categoria":"Repuesto"
     },
@@ -354,7 +354,7 @@
         "nombre": "Competition",
         "tipoItem": "punio",
         "precio": "45$",
-        "img": "../../images/punio2.jpg",
+        "img": "../../images/punios2.jpg",
         "id": "41",
         "categoria":"Repuesto"
     },
@@ -362,7 +362,7 @@
         "nombre": "Confident",
         "tipoItem": "punio",
         "precio": "53$",
-        "img": "../../images/punio3.jpg",
+        "img": "../../images/punios3.jpg",
         "id": "42",
         "categoria":"Repuesto"
     },
