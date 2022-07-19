@@ -249,194 +249,194 @@
     },
     {
         "nombre": "Manillar speed",
-        "tipoItem": "Repuesto",
+        "tipoItem": "manillar",
         "precio": "250$",
         "img": "../../images/manubrio1",
         "id": "29",
-        "categoria":"manillar"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Manillar grip01",
-        "tipoItem": "Repuesto",
+        "tipoItem": "manillar",
         "precio": "257$",
         "img": "../../images/manubrio2",
         "id": "30",
-        "categoria":"manillar"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Manillar downhill",
-        "tipoItem": "Repuesto",
+        "tipoItem": "manillar",
         "precio": "230$",
         "img": "../../images/manubrio4",
         "id": "31",
-        "categoria":"manillar"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Manillar climb",
-        "tipoItem": "Repuesto",
+        "tipoItem": "manillar",
         "precio": "270$",
         "img": "../../images/manubrio5",
         "id": "32",
-        "categoria":"manillar"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Pedal control",
-        "tipoItem": "Repuesto",
+        "tipoItem": "pedal",
         "precio": "150$",
         "img": "../../images/pedal1",
         "id": "33",
-        "categoria":"pedal"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Pedal rare",
-        "tipoItem": "Repuesto",
+        "tipoItem": "pedal",
         "precio": "134$",
         "img": "../../images/pedal2",
         "id": "34",
-        "categoria":"pedal"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Pedal spirit",
-        "tipoItem": "Repuesto",
+        "tipoItem": "pedal",
         "precio": "123$",
         "img": "../../images/pedal3",
         "id": "35",
-        "categoria":"pedal"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Pedal extreme",
-        "tipoItem": "Repuesto",
+        "tipoItem": "pedal",
         "precio": "176$",
         "img": "../../images/pedal4",
         "id": "36",
-        "categoria":"pedal"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Pedal miracle",
-        "tipoItem": "Repuesto",
+        "tipoItem": "pedal",
         "precio": "111$",
         "img": "../../images/pedal5",
         "id": "37",
-        "categoria":"pedal"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Pedal robot",
-        "tipoItem": "Repuesto",
+        "tipoItem": "pedal",
         "precio": "127$",
         "img": "../../images/pedal6",
         "id": "38",
-        "categoria":"pedal"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Pedal track",
-        "tipoItem": "Repuesto",
+        "tipoItem": "pedal",
         "precio": "145$",
         "img": "../../images/pedal7",
         "id": "39",
-        "categoria":"pedal"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Control",
-        "tipoItem": "Repuesto",
+        "tipoItem": "punio",
         "precio": "32$",
         "img": "../../images/punio1",
         "id": "40",
-        "categoria":"punio"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Competition",
-        "tipoItem": "Repuesto",
+        "tipoItem": "punio",
         "precio": "45$",
         "img": "../../images/punio2",
         "id": "41",
-        "categoria":"punio"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Confident",
-        "tipoItem": "Repuesto",
+        "tipoItem": "punio",
         "precio": "53$",
         "img": "../../images/punio3",
         "id": "42",
-        "categoria":"punio"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Cinta champion",
-        "tipoItem": "Repuesto",
+        "tipoItem": "cinta",
         "precio": "23$",
         "img": "../../images/cinta_manillar1",
         "id": "43",
-        "categoria":"cinta"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Cinta true grip",
-        "tipoItem": "Repuesto",
+        "tipoItem": "cinta",
         "precio": "18$",
         "img": "../../images/cinta_manillar2",
         "id": "44",
-        "categoria":"cinta"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Cinta full speed",
-        "tipoItem": "Repuesto",
+        "tipoItem": "cinta",
         "precio": "19$",
         "img": "../../images/cinta_manillar3",
         "id": "45",
-        "categoria":"cinta"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Cinta control",
-        "tipoItem": "Repuesto",
+        "tipoItem": "cinta",
         "precio": "31$",
         "img": "../../images/cinta_manillar4",
         "id": "46",
-        "categoria":"cinta"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Cinta clean",
-        "tipoItem": "Repuesto",
+        "tipoItem": "cinta",
         "precio": "15$",
         "img": "../../images/cinta_manillar5",
         "id": "47",
-        "categoria":"cinta"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Cinta classic",
-        "tipoItem": "Repuesto",
+        "tipoItem": "cinta",
         "precio": "23$",
         "img": "../../images/cinta_manillar6",
         "id": "48",
-        "categoria":"cinta"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Asiento comfort",
-        "tipoItem": "Repuesto",
+        "tipoItem": "asiento",
         "precio": "52$",
         "img": "../../images/asiento1",
         "id": "49",
-        "categoria":"asiento"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Asiento speed",
-        "tipoItem": "Repuesto",
+        "tipoItem": "asiento",
         "precio": "52$",
         "img": "../../images/asiento2",
         "id": "50",
-        "categoria":"asiento"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Asiento long distance",
-        "tipoItem": "Repuesto",
+        "tipoItem": "asiento",
         "precio": "47$",
         "img": "../../images/asiento3",
         "id": "51",
-        "categoria":"asiento"
+        "categoria":"Repuesto"
     },
     {
         "nombre": "Asiento sprint",
-        "tipoItem": "Repuesto",
+        "tipoItem": "asiento",
         "precio": "52$",
         "img": "../../images/asiento4",
         "id": "52",
-        "categoria":"asiento"
+        "categoria":"Repuesto"
     }
 ]
